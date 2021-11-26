@@ -14,3 +14,5 @@ Open mind for a different view
 And nothing else matters
 
 content for first commit (bring me on,task 2)
+
+content for second commit (bring me on,task 2)
